@@ -1,6 +1,6 @@
-Osita Gerald Abia
-logo: headshot
-Description : A data analyst with 3 years experience using excel for report automation,sql for data manipulation and power Bi for insights 
-show_downloads: true
-google_analytics:
+title: Osita Gerald Abia
+logo: headshot.webpt
+Description: A data analyst with 3 years experience using excel for report automation,sql for data manipulation and power Bi for insights 
+#show_downloads: true
+#google_analytics:
 theme: jekyll-theme-minimal
