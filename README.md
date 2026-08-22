@@ -1,7 +1,7 @@
 # DATA ANALYTICS PORTFOLIO  
 ## Project 1 
 
-**Title** sales performance Dashboard 2023-2025
+**Title** Sales performance Dashboard 2023-2025
 
 
 **Tools Used** Microsoft excel(),Pivot tables, timelines , slicers ,
