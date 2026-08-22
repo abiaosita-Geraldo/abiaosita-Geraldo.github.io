@@ -12,4 +12,4 @@
 
  **Dashboard overview**
  
-  []()
+  ![Sales performance dashboard 2023-2025](Sales%20performance%20dashboard%202023-2025.png)
