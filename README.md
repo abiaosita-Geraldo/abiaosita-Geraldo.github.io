@@ -12,9 +12,14 @@ performance data across regions, products categories, and customer demographics 
 evaluate delivery efficiency ,and optimise profit margins.
 
 **Key Findings**
-Generated 3.5M in net revenue across 34,500 total orders.
-Revenue concentrates in top products.
-Sales were evely
+* **Revenue Concentrated** The business generated **5.87M in net revenue** across 34,500 total orders**, driven predominantly by Electronics(££.32M
+* **Margin Compression:** Profitability scales directly with product volume; high-performing lines yield margins up to **55.7**,while  low volume lines
+  dropping to **-2.3**in groceries.
+* ** Logistical Disparities:**Delivery turn around times range from **4.0 to 6.0 days** across geographical entities, highlighting potential fulfillment
+  bottlenecks in the eastern region.
+* ** Method of payment**  Credit card represents the dominant mode of payment across all demographics ,revealing the highest rate among the middle age
+  consumers  
+  
 
  **Dashboard overview**
  
