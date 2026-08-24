@@ -49,4 +49,12 @@ evaluate delivery efficiency ,and optimise profit margins.
 
  **Dashboard overview**
  
-  ![SALES.png](SALES.png)
+  ![SALE1.png](SALE1.png)
+
+
+
+
+
+
+
+
