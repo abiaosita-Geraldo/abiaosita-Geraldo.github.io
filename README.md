@@ -30,7 +30,7 @@ evaluate delivery efficiency ,and optimise profit margins.
 | **Category Profitability** | Dual-axis combination, visual evaluating net sales volume against average profit margin per category. |
 | **Regional logistics** |Performance tracking regional order to delivery measured in days. |
 | **Regional sale Distribution** |Comparative bar chart illustrating revenue balance across operating regions lead by the South . |
-| **Demographic payment channels** |Multi-series  trends illustrating payment preferences across age segments. |
+| **Demographic payment channels** |Multi-series trends illustrating order volume by payment preferences across age segments. |
 
 
 
