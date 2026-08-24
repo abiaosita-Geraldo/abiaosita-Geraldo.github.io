@@ -4,7 +4,7 @@
 **Title:** Sales performance Dashboard 2023-2025
 
 
-**Tools Used:** Microsoft excel, Power query(data cleaning & transformation) Pivot tables, Timelines , Slicers.
+**Tools Used:** Microsoft excel,  Power query(data cleaning & transformation)  Pivot tables, Timelines , Slicers.
 
 **Project Description** 
 An interactive sales analysis dashboard analysing  2023-2025
