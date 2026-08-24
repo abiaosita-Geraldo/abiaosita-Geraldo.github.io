@@ -17,7 +17,7 @@ evaluate delivery efficiency ,and optimise profit margins.
   dropping to **-2.3**in groceries.
 * **Logistical Disparities:** Delivery turn around times range from **4 to 6 days** across geographical entities, highlighting potential fulfillment
   bottlenecks in the eastern region.
-* **Method of payment:** Credit card represents the dominant mode of payment across all demographic,revealing the highest rate among the middle age
+* **Method of payment:** Credit card represents the dominant mode of payment across all demographic ,revealing the highest rate among the middle age
   consumers
 
 ---
@@ -50,6 +50,41 @@ evaluate delivery efficiency ,and optimise profit margins.
  **Dashboard overview**
  
   ![SALE1.png](SALE1.png)
+
+
+
+
+
+ ## Project 2
+ 
+**Title:**
+
+**tools used:**
+
+
+**Project Description:**
+
+
+**key Findings:**
+
+
+
+
+**Dashboard Overview**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
