@@ -75,7 +75,7 @@ The aim is to assist stakeholders key revenue metrics ,understand customer purch
 * **Regional perfomance:** The **Eastern** region emerged as the dorminant market, significantly outperforming south ,west and north regions respectively in total quantity sold.
 * **Sales trend over time:** Sales activities peaked sharply in 2024 before stabilising ,highlighting a key period of operational growth.
 * **Product insights:** high-tech subcategory led by **Smartphones** and **Accessories** accounted for the highest volume of units sold overall.
-* **Sales by gender:** Volume of sales was almost evenly split between male and female customers ,showing almost across demogrphics.
+* **Sales by gender:** Women drive  majority of sales volume,**key metrics female(56.4%) versus 43.6% male .High engagement across both segments means cross-gender marketing campaigns offer thew best return on returns. 
 * **Payment Methods**Customers transaction were evenly distributed across payment options (**Credit cards ,mobile money ,cash and bank transfers**),indicating that customers utilized a broad range of payment channels without ant single dorminant preference  
 
 
