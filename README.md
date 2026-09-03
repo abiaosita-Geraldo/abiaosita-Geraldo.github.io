@@ -66,11 +66,14 @@ evaluate delivery efficiency ,and optimise profit margins.
 **tools used:** Power Bi ,Excel, Power query, Data visualisation and Data Analysis and Expression (DAX) 
 
 
-**Project Description:** This Power interactive dashboard analyses retail sales performance across a three period ,built from retail data ,the project an end-end view of overall revenue, order by volume ,regional performance and product subcategory
+**Project Description:** This Power interactive dashboard analyses retail sales performance across a three period ,built from retail data ,the project an end-end view of overall revenue, order by volume ,regional performance and product subcategory.
 The aim is to assist stakeholders key revenue metrics ,understand customer purchasing behaviours across region,  optimize inventory distribution based on demand by subcategory
 
 
-**key Findings:**
+**key Findings:** 
+* **Total revenue and sales volume:** Generated $15.47M in net revenue across 5000 total orders ,achieving an average order of value of $3.09 and moving 15000 units .
+* **Regional perfomance:** The **Eastern** region emerged as the dorminant market, significantly outperforming south ,west and north regions respectively in total quantity sold.
+* **Sales trend over time:** Sales activities peaked sharply in 2024 before stabilising ,highlighting a key period of operational growth. 
 
 
 
