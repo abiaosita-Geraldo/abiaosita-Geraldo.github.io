@@ -61,7 +61,7 @@ evaluate delivery efficiency ,and optimise profit margins.
 ## Project 2
 
  
-**Title:** [2023-2025 Sales and Revenue Dashboard]
+**Title:** [View Sales Dashboard](SALES2.png)
 
 **tools used:** Excel, Power Bi , Power query(Data cleaning and transformation), Data visualisation and Data Analysis and Expression (DAX) 
 
