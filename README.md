@@ -74,7 +74,7 @@ evaluate delivery efficiency ,and optimise profit margins.
 
 
 
-**Dashboard Overview**
+**Dashboard Overview**![Dashboard](Screenshot 2026-09-03 020250.png)
 
 
 
