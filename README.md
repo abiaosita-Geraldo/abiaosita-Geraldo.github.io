@@ -63,7 +63,7 @@ evaluate delivery efficiency ,and optimise profit margins.
  
 **Title:** 2023-2025 Sales and revenue Dashboard
 
-**tools used:**
+**tools used:** Power Bi
 
 
 **Project Description:**
