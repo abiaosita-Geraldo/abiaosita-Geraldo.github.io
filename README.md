@@ -1,7 +1,7 @@
 # DATA ANALYTICS PORTFOLIO  
 ## Project 1 
 
-**Title:** Sales performance Dashboard 2023-2025
+**Title:** [Sales performance Dashboard 2023-2025](SALE1.png)
 
 
 **Tools Used:** Microsoft excel,  Power query(data cleaning & transformation)  Pivot tables, Timelines , Slicers.
