@@ -63,10 +63,11 @@ evaluate delivery efficiency ,and optimise profit margins.
  
 **Title:** 2023-2025 Sales and revenue Dashboard
 
-**tools used:** Power Bi
+**tools used:** Power Bi ,Excel, Power query, Data visualisation and Data Analysis and Expression (DAX) 
 
 
-**Project Description:**
+**Project Description:** This Power interactive dashboard analyses retail sales performance across a three period ,built from retail data ,the project an end-end view of overall revenue, order by volume ,regional performance and product subcategory
+The aim is to assist stakeholders key revenue metrics ,understand customer purchasing behaviours across region,  optimize inventory distribution based on demand by subcategory
 
 
 **key Findings:**
