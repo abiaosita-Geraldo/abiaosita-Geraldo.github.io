@@ -73,7 +73,7 @@ The aim is to assist stakeholders key revenue metrics ,understand customer purch
 **key Findings:** 
 * **Total revenue and sales volume:** Generated **$15.48M** in net revenue across 5000 total orders ,achieving an average order of value of **$3.10** and moving **15000** units .
 * **Regional perfomance:** The **Eastern** region emerged as the dorminant market, significantly outperforming south ,west and north regions respectively in total quantity sold.
-* **Sales trend over time:** Sales activities peaked sharply in 2020,following by decline through 2023 and a stable trajectory through 2025.
+* **Sales trend over time:** Sales activities increased sharply from 2020,then peaked in 2022 before a gradual decline  decline through 2024 and 2025.Priority is re-engage inactive customers and investigate root cause to reverse the decline in sales across 2023-2024.
 * **Product insights:** **Fashion** leads with **~5.5-6K** in sales, closely followed by **Electronic** at **~5K**,while **Groceries** trails as the lowest  performing category at category **~2.5K**
 * **Sales by gender:** Women drive  majority of sales volume, key metrics female **56.4%** versus **43.6%** male .High engagement across both segments means cross-gender marketing campaigns offer thew best return on returns. 
 * **Payment Methods**Customers transaction were evenly distributed across payment options (**Credit cards ,mobile money ,cash and bank transfers**),indicating that customers utilized a broad range of payment channels without ant single dorminant preference  
