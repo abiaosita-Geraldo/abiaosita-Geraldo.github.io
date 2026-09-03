@@ -80,7 +80,7 @@ The aim is to assist stakeholders key revenue metrics ,understand customer purch
 
 
 
-**Dashboard Overview** ![Screenshot 2026-09-03 184403.png](Screenshot 2026-09-03 184403.png)
+**Dashboard Overview** ![Dashboard](<Screenshot 2026-09-03 184403.png>)
 
 
 
