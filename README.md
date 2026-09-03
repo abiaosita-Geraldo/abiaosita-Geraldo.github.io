@@ -71,7 +71,7 @@ The aim is to assist stakeholders key revenue metrics ,understand customer purch
 
 
 **key Findings:** 
-* **Total revenue and sales volume:** Generated **$15.47M** in net revenue across 5000 total orders ,achieving an average order of value of **$3.09** and moving **15000** units .
+* **Total revenue and sales volume:** Generated **$15.48M** in net revenue across 5000 total orders ,achieving an average order of value of **$3.10** and moving **15000** units .
 * **Regional perfomance:** The **Eastern** region emerged as the dorminant market, significantly outperforming south ,west and north regions respectively in total quantity sold.
 * **Sales trend over time:** Sales activities peaked sharply in 2020,following by decline through 2023 and a stable trajectory through 2025.
 * **Product insights:** high-tech subcategory led by **Smartphones** and **Accessories** accounted for the highest volume of units sold overall.
