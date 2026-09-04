@@ -63,11 +63,11 @@ evaluate delivery efficiency ,and optimise profit margins.
  
 **Title:** [View 2020-2025 SALES AND REVENUE  DASHBOARD](<Screenshot 2026-09-03 184403.png>)
 
-**tools used:** Excel, Power Bi , Power query(Data cleaning and transformation), Data visualisation and Data Analysis and Expression (DAX) 
+**tools used:** Power Bi , Power query(Data cleaning and transformation), Data visualisation and Data Analysis and Expression (DAX) 
 
 
-**Project Description:** This Power interactive dashboard analyses retail sales performance across a three period ,built from retail data ,the project an end-end view of overall revenue, order by volume ,regional performance and product subcategory.
-The aim is to assist stakeholders key revenue metrics ,understand customer purchasing behaviours across region,  optimize inventory distribution based on demand by subcategory
+**Project Description:** This Power BI interactive dashboard analyses retail sales performance across a five year period (2020-2025) ,built from retail data ,the project is an end-end view of overall revenue, order by volume ,regional performance and product category.
+The aim is to assist stakeholders key revenue metrics ,understand customer purchasing behaviours across region,  optimize inventory distribution based on demand by category
 
 
 **key Findings:** 
