@@ -1,80 +1,80 @@
-select*
-from salesdata_2024;
+SELECT *
+FROM salesdata_2024;
 
-select customer_id,category,region,revenue,delivery_days,quantity
-from salesdata_2024;
+SELECT customer_id,category,region,revenue,delivery_days,quantity
+FROM salesdata_2024;
 
-select sum(quantity) as Total_units_sold
-from salesdata_2024;
+SELECT sum(quantity) AS Total_quantity_sold
+FROM salesdata_2024;
 
-select AVG(quantity) as average_quantity_sold
-from salesdata_2024;
+SELECT AVG(quantity) AS average_quantity_sold
+FROM salesdata_2024;
 
-select min(quantity)
-from salesdata_2024
+SELECT min(quantity)
+FROM salesdata_2024
 
 
-select max(quantity)
-from salesdata_2024
+SELECT max(quantity)
+FROM salesdata_2024
 
-select top(2)  category
-from salesdata_2024
+SELECT top(2)  category
+FROM salesdata_2024
 where region = 'north'
 
-select sum(revenue) as Total_Revenue
-from salesdata_2024
+SELECT sum(revenue) as Total_Revenue
+FROM salesdata_2024
 
-select category, sum(revenue) as category_revenue
-from salesdata_2024
-group by category
-order by category_revenue  desc
+SELECT category, sum(revenue) as category_revenue
+FROM salesdata_2024
+GROUP BY category
+ORDER BY category_revenue  desc
  
-select count(*) customer_id
-from salesdata_2024
+SELECT COUNT(*) customer_id
+FROM salesdata_2024
 
 
-select category, sum(quantity) as sales
-from salesdata_2024
-group by category 
-having category in ('electronics','clothing');
+SELECT category, sum(quantity) as sales
+FROM salesdata_2024
+GROUP BY category 
+HAVING category in ('electronics','clothing');
 
 
-select category, sum(quantity) as sales
-from salesdata_2024 
-where  category in ('electronics','clothing')
-group by category
+SELECT category, sum(quantity) as sales
+FROM salesdata_2024 
+WHERE  category in ('electronics','clothing')
+GROUP BY category
 
-select* ,sum (quantity) over(partition by category) as total_sales
-from salesdata_2024
+SELECT * ,sum (quantity) over(partition by category) as total_sales
+FROM salesdata_2024
 
 
-select* ,rank() over(order by quantity desc) as descending,
+SELECT * ,rank() over(order by quantity desc) as descending,
 rank()over(order by quantity asc) as ascending
-from salesdata_2024
+FROM salesdata_2024
  
 
-;with CTE As(
- select * ,
+;WITH CTE As(
+ SELECT * ,
        rank() over(order by revenue desc) as  Descending,
         rank() over(order by revenue asc) as Ascending
-from salesdata_2024
+FROM salesdata_2024
 )
-select*
-from CTE
-where descending <=2 or  ascending <=2;
+SELECT *
+FROM CTE
+WHERE descending <=2 OR  ascending <=2;
 
 
 
 
 
-Select*
-from SALESDATA_2024
-where region in ( 'west' ,'north')
+SELECT *
+FROM SALESDATA_2024
+FROM region IN ( 'west' ,'north')
 
 
-select*
-from SALESDATA_2024
-where category like 'c_______'
+SELECT *
+FROM SALESDATA_2024
+WHERE category LIKE 'c_______'
 
 
 
