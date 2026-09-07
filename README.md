@@ -90,8 +90,25 @@ The aim is to assist stakeholders key revenue metrics ,understand customer purch
 
 
 
-P
+## Project 3
 
+**Title** Sales Data 2024
+
+**SQL Code**
+Analysis of a collection of structured queries  executed against the salesdata_2024 
+using SQL to offer insights ,data retrieval with Select and column specific selections ,aggregations using sum,min,max
+and count, filtering and conditional logic
+
+**Skills used** Basic and advanced SQL querying ,data aggregation and statistical functions,data filtering,
+sorting and grouping.
+Advanced window function and ranking techniques, CTE.
+
+
+**Programme description** A progressive SQL programming script made to analyse a business dataset. The script transitions from fundamental data 
+retrieval and basic descriptive statistics to intermediate grouping and advanced analytical operations enabling extraction of insights
+
+**Technology used**
+SEQUEL (SQL)
 
 
 
