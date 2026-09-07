@@ -92,7 +92,7 @@ The aim is to assist stakeholders key revenue metrics ,understand customer purch
 
 ## Project 3
 
-**Title** https://github.com/abiaosita-Geraldo/abiaosita-Geraldo.github.io/blob/main/sales_qeuries.sql
+**Title** Sales Data 2024 Analysis][https://github.com/abiaosita-Geraldo/abiaosita-Geraldo.github.io/blob/main/sales_qeuries.sql]
 
 **SQL Code**
 Analysis of a collection of structured queries  executed against the salesdata_2024 
