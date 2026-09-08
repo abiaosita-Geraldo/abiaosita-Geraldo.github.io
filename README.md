@@ -71,7 +71,7 @@ The aim is to assist stakeholders key revenue metrics ,understand customer purch
 
 
 **key Findings:** 
-* **Total revenue and sales volume:** Generated **$15.48M** in net revenue across 5000 total orders ,achieving an average order of value of **$3.10** and moving **15000** units .
+* **Total revenue and sales volume:** Generated **$15.48M** in net revenue across 5000 total orders ,achieving an average order of value of **$3.10k** and moving **15000** units .
 * **Regional perfomance:** The **Eastern** region emerged as the dorminant market, significantly outperforming south ,west and north regions respectively in total quantity sold.
 * **Sales trend over time:** Sales activities increased sharply from 2020,then peaked in 2022 before a gradual decline  decline through 2024 and 2025.Priority is to  re-engage inactive customers and investigate root cause and reverse the decline in sales across 2024-2025.
 * **Product insights:** **Fashion** leads with **~5.5-6K** in sales, closely followed by **Electronic** at **~5K**,while **Groceries** trails as the lowest  performing category at category **~2.5K**
